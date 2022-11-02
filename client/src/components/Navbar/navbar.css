@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.align-left {
+    display: flex;
+    gap: 2em;
+}
+
+.align-left button {
+    border: none;
+    background-color: transparent;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+}
